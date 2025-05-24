@@ -48,11 +48,6 @@
   </a>
 </p>
 
-<!-- Now Playing Spotify Widget -->
-<p align="left">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=210sc7u1gtecloug9d2megfyy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Now Playing on Spotify"/>
-</p>
-
 ---
 
 <!--
