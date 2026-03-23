@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Art</h1>
 
 <p align="center">
-  <b> -- Embedded Systems & Web Software Developer -- </b><br><br>
+  <b> -- Software Engineer -- </b><br><br>
   Crafting reliable, efficient solutions at the intersection of hardware and software.<br>
   Passionate about embedded systems.
 </p>
@@ -12,7 +12,7 @@
 
 ## Skills & Expertise
 
-- **Languages:** C, C++, Rust, Go, Bash, Assembly, Java, TypeScript (Frontend), SQL, Python
+- **Languages:**  Java, TypeScript, SQL, C, C++, Bash, Assembly, Python
 - **Platforms:** Linux (Embedded & Desktop)
 - **Scripting:** Bash, Shell, Python
 - **Hardware:** Microcontrollers, Sensors, Actuators, Embedded Systems
@@ -24,15 +24,13 @@
 ## Languages I Work With
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
