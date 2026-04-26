@@ -47,6 +47,8 @@
   </a>
 </p>
 
+[![Spotify](https://novatorem-art-jasharis-projects.vercel.app/api/spotify)](https://open.spotify.com)
+
 ---
 
 <!--
