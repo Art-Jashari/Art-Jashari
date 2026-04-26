@@ -47,8 +47,9 @@
   </a>
 </p>
 
-[![Spotify](https://novatorem-art-jasharis-projects.vercel.app/api/orchestrator)](https://open.spotify.com)
-
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-art-jasharis-projects.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff)](https://open.spotify.com)
+</div>
 ---
 
 <!--
