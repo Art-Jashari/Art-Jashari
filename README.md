@@ -8,6 +8,12 @@
   Passionate about embedded systems.
 </p>
 
+<div align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://novatorem-art-jasharis-projects.vercel.app/api/orchestrator?t=1" alt="Spotify Now Playing"/>
+  </a>
+</div>
+
 ---
 
 ## Skills & Expertise
@@ -47,12 +53,7 @@
   </a>
 </p>
 
-&nbsp;<div align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem-art-jasharis-projects.vercel.app/api/orchestrator?t=1" alt="Spotify Now Playing"/>
-  </a>
-</div>
----
+
 
 <!--
 ### 🚀 Favorite Projects
